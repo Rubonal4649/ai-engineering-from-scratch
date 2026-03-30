@@ -1060,15 +1060,17 @@ const PHASES = [
       },
       {
         "name": "Building a Tokenizer from Scratch",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python, Rust"
+        "lang": "Python",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/10-llms-from-scratch/02-building-a-tokenizer/"
       },
       {
         "name": "Data Pipelines for Pre-Training",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python"
+        "lang": "Python",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/10-llms-from-scratch/03-data-pipelines/"
       },
       {
         "name": "Pre-Training a Mini GPT (124M)",

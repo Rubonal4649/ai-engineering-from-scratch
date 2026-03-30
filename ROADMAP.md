@@ -212,8 +212,8 @@ Progress tracking for every phase and lesson.
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
 | 01 | Tokenizers — BPE, WordPiece, SentencePiece | ✅ | ~45 min |
-| 02 | Building a Tokenizer from Scratch | ⬚ | ~75 min |
-| 03 | Data Pipelines for Pre-Training | ⬚ | ~75 min |
+| 02 | Building a Tokenizer from Scratch | ✅ | ~75 min |
+| 03 | Data Pipelines for Pre-Training | ✅ | ~75 min |
 | 04 | Pre-Training a Mini GPT (124M) | ⬚ | ~120 min |
 | 05 | Scaling — Distributed Training, FSDP, DeepSpeed | ⬚ | ~75 min |
 | 06 | Instruction Tuning — SFT | ⬚ | ~75 min |

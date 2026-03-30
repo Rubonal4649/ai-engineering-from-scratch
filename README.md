@@ -279,8 +279,8 @@ You learn AI. You build real things. You ship tools others can use.
 | # | Lesson | Type | Lang |
 |:---:|--------|:----:|------|
 | 01 | [Tokenizers: BPE, WordPiece, SentencePiece](phases/10-llms-from-scratch/01-tokenizers/) | Build | Python |
-| 02 | Building a Tokenizer from Scratch | Build | Python, Rust |
-| 03 | Data Pipelines for Pre-Training | Build | Python |
+| 02 | [Building a Tokenizer from Scratch](phases/10-llms-from-scratch/02-building-a-tokenizer/) | Build | Python |
+| 03 | [Data Pipelines for Pre-Training](phases/10-llms-from-scratch/03-data-pipelines/) | Build | Python |
 | 04 | Pre-Training a Mini GPT (124M) | Build | Python |
 | 05 | Distributed Training, FSDP, DeepSpeed | Build | Python |
 | 06 | Instruction Tuning -SFT | Build | Python |
