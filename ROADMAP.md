@@ -216,27 +216,27 @@ Progress tracking for every phase and lesson.
 | 03 | Data Pipelines for Pre-Training | ✅ | ~75 min |
 | 04 | Pre-Training a Mini GPT (124M) | ✅ | ~120 min |
 | 05 | Scaling — Distributed Training, FSDP, DeepSpeed | ✅ | ~75 min |
-| 06 | Instruction Tuning — SFT | ⬚ | ~75 min |
-| 07 | RLHF — Reward Model + PPO Training | ⬚ | ~75 min |
-| 08 | DPO — Direct Preference Optimization | ⬚ | ~75 min |
+| 06 | Instruction Tuning — SFT | ✅ | ~75 min |
+| 07 | RLHF — Reward Model + PPO Training | ✅ | ~75 min |
+| 08 | DPO — Direct Preference Optimization | ✅ | ~75 min |
 | 09 | Constitutional AI & Self-Improvement | ⬚ | ~45 min |
-| 10 | Evaluation — Benchmarks, Evals, LM Harness | ⬚ | ~75 min |
+| 10 | Evaluation — Benchmarks, Evals, LM Harness | ✅ | ~75 min |
 | 11 | Quantization — INT8, GPTQ, AWQ, GGUF | ⬚ | ~75 min |
 | 12 | Inference Optimization | ⬚ | ~75 min |
 | 13 | Building a Complete LLM Pipeline | ⬚ | ~120 min |
 | 14 | Open Models — Architecture Walkthroughs | ⬚ | ~45 min |
 
-## Phase 11: LLM Engineering — ⬚ (~15 hours)
+## Phase 11: LLM Engineering — 🚧 (~15 hours)
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
 | 01 | Prompt Engineering — Techniques & Patterns | ⬚ | ~45 min |
 | 02 | Few-Shot, Chain-of-Thought, Tree-of-Thought | ⬚ | ~45 min |
-| 03 | Structured Outputs | ⬚ | ~75 min |
+| 03 | Structured Outputs | ✅ | ~75 min |
 | 04 | Embeddings & Vector Representations | ⬚ | ~75 min |
-| 05 | Vector Databases | ⬚ | ~75 min |
-| 06 | RAG — Retrieval-Augmented Generation | ⬚ | ~75 min |
-| 07 | Advanced RAG | ⬚ | ~75 min |
+| 05 | Context Engineering | ✅ | ~75 min |
+| 06 | RAG — Retrieval-Augmented Generation | ✅ | ~75 min |
+| 07 | Advanced RAG | ✅ | ~75 min |
 | 08 | Fine-Tuning with LoRA & QLoRA | ⬚ | ~75 min |
 | 09 | Function Calling & Tool Use | ⬚ | ~75 min |
 | 10 | Evaluation & Testing LLM Applications | ⬚ | ~45 min |

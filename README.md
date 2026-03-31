@@ -326,11 +326,11 @@ Other courses end with "congratulations, you learned X." Our lessons end with a 
 | 03 | [Data Pipelines for Pre-Training](phases/10-llms-from-scratch/03-data-pipelines/) | Build | Python |
 | 04 | [Pre-Training a Mini GPT (124M)](phases/10-llms-from-scratch/04-pre-training-mini-gpt/) | Build | Python |
 | 05 | [Distributed Training, FSDP, DeepSpeed](phases/10-llms-from-scratch/05-scaling-distributed/) | Build | Python |
-| 06 | Instruction Tuning -SFT | Build | Python |
-| 07 | RLHF -Reward Model + PPO | Build | Python |
-| 08 | DPO -Direct Preference Optimization | Build | Python |
+| 06 | [Instruction Tuning -SFT](phases/10-llms-from-scratch/06-instruction-tuning-sft/) | Build | Python |
+| 07 | [RLHF -Reward Model + PPO](phases/10-llms-from-scratch/07-rlhf/) | Build | Python |
+| 08 | [DPO -Direct Preference Optimization](phases/10-llms-from-scratch/08-dpo/) | Build | Python |
 | 09 | Constitutional AI | Build | Python |
-| 10 | Evaluation -Benchmarks, Evals | Build | Python |
+| 10 | [Evaluation -Benchmarks, Evals](phases/10-llms-from-scratch/10-evaluation/) | Build | Python |
 | 11 | Quantization: INT8, GPTQ, AWQ, GGUF | Build | Python, Rust |
 | 12 | Inference Optimization | Build | Python |
 | 13 | Building a Complete LLM Pipeline | Build | Python |
@@ -345,11 +345,11 @@ Other courses end with "congratulations, you learned X." Our lessons end with a 
 |:---:|--------|:----:|------|
 | 01 | Prompt Engineering: Techniques & Patterns | Build | Python |
 | 02 | Few-Shot, CoT, Tree-of-Thought | Build | Python |
-| 03 | Structured Outputs | Build | Python, TS |
+| 03 | [Structured Outputs](phases/11-llm-engineering/03-structured-outputs/) | Build | Python, TS |
 | 04 | Embeddings & Vector Representations | Build | Python |
-| 05 | Vector Databases | Build | Python, TS |
-| 06 | RAG -Retrieval-Augmented Generation | Build | Python, TS |
-| 07 | Advanced RAG -Chunking, Reranking | Build | Python |
+| 05 | [Context Engineering](phases/11-llm-engineering/05-context-engineering/) | Build | Python, TS |
+| 06 | [RAG -Retrieval-Augmented Generation](phases/11-llm-engineering/06-rag/) | Build | Python, TS |
+| 07 | [Advanced RAG -Chunking, Reranking](phases/11-llm-engineering/07-advanced-rag/) | Build | Python |
 | 08 | Fine-Tuning with LoRA & QLoRA | Build | Python |
 | 09 | Function Calling & Tool Use | Build | Python, TS |
 | 10 | Evaluation & Testing | Build | Python |

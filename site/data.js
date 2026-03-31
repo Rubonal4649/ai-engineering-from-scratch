@@ -1094,21 +1094,24 @@ const PHASES = [
       },
       {
         "name": "Instruction Tuning -SFT",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python"
+        "lang": "Python",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/10-llms-from-scratch/06-instruction-tuning-sft/"
       },
       {
         "name": "RLHF -Reward Model + PPO",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python"
+        "lang": "Python",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/10-llms-from-scratch/07-rlhf/"
       },
       {
         "name": "DPO -Direct Preference Optimization",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python"
+        "lang": "Python",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/10-llms-from-scratch/08-dpo/"
       },
       {
         "name": "Constitutional AI",
@@ -1118,9 +1121,10 @@ const PHASES = [
       },
       {
         "name": "Evaluation -Benchmarks, Evals",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python"
+        "lang": "Python",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/10-llms-from-scratch/10-evaluation/"
       },
       {
         "name": "Quantization: INT8, GPTQ, AWQ, GGUF",
@@ -1151,7 +1155,7 @@ const PHASES = [
   {
     "id": 11,
     "name": "LLM Engineering",
-    "status": "planned",
+    "status": "in-progress",
     "desc": "Put LLMs to work in production.",
     "lessons": [
       {
@@ -1168,9 +1172,10 @@ const PHASES = [
       },
       {
         "name": "Structured Outputs",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python, TS"
+        "lang": "Python, TS",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/11-llm-engineering/03-structured-outputs/"
       },
       {
         "name": "Embeddings & Vector Representations",
@@ -1179,22 +1184,25 @@ const PHASES = [
         "lang": "Python"
       },
       {
-        "name": "Vector Databases",
-        "status": "planned",
+        "name": "Context Engineering",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python, TS"
+        "lang": "Python, TS",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/11-llm-engineering/05-context-engineering/"
       },
       {
         "name": "RAG -Retrieval-Augmented Generation",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python, TS"
+        "lang": "Python, TS",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/11-llm-engineering/06-rag/"
       },
       {
         "name": "Advanced RAG -Chunking, Reranking",
-        "status": "planned",
+        "status": "complete",
         "type": "Build",
-        "lang": "Python"
+        "lang": "Python",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/11-llm-engineering/07-advanced-rag/"
       },
       {
         "name": "Fine-Tuning with LoRA & QLoRA",
